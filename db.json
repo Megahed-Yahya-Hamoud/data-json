@@ -1,114 +1,774 @@
-[
-  {
-    "id": 1,
-    "title": "Dance Monkey ",
-    "singer": "Tones and I",
-    "img": "./image/maxresdefault.jpg",
-    "description": "dance monkey, dance monkey lyrics, tones and i, lyrics, tones and i dance monkey, dance monkey tones and i, tones and i lyrics, dance monkey lyrics tones and i, dance monkey lyric, dance monkey lyric video, 7clouds, monkey dance, dance monkey tiktok, royal music, pop, music, dance for me, new",
-    "link": "./music/Tones and I - Dance Monkey (Lyrics)(MP3_160K).mp3"
-  },
-  {
-    "id": 2,
-    "title": "Symphony",
-    "singer": "Clean Bandit",
-    "img": "./image/images.jpeg",
-    "description": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Clean Bandit - Symphony (Lyrics_Vietsub) feat. Zara Larsson(MP3_160K).mp3"
-  },
-  {
-    "id": 3,
-    "title": "Shape of You",
-    "singer": "Ed Sheeran",
-    "img": "./image/images(1).jpeg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Ed Sheeran - Shape Of You (Lyrics)(M4A_128K).m4a"
-  },
-  {
-    "id": 4,
-    "title": "Believer",
-    "singer": "Imagine Dragons",
-    "img": "./image/maxresdefault(1).jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Imagine Dragons - Believer (Lyrics)(M4A_128K).m4a"
-  },
-  {
-    "id": 5,
-    "title": "Happy",
-    "singer": "Pharrell Williams",
-    "img": "./image/images(2).jpeg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Pharrell Williams - Happy (Video)(M4A_128K).m4a"
-  },
-  {
-    "id": 6,
-    "title": "Low",
-    "singer": "Flo Rida",
-    "img": "./image/images(3).jpeg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Flo Rida - Low (feat. T-Pain) [from Step Up 2 The Streets O.S.T. _ Mail On Sunday] (Official Video)(M4A_128K).m4a"
-  },
-  {
-    "id": 7,
-    "title": "Venom",
-    "singer": "Eminem",
-    "img": "./image/images(4).jpeg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Eminem - Venom(M4A_128K).m4a"
-  },
-  {
-    "id": 8,
-    "title": "Till I Collapse",
-    "singer": "Eminem",
-    "img": "./image/maxresdefault(2).jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Till I Collapse(M4A_128K).m4a"
-  },
-  {
-    "id": 9,
-    "title": "Rockabye",
-    "singer": "Anne-Marie",
-    "img": "./image/sddefault.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Rockabye - Clean Bandit ft. Sean Paul _ Anne-Marie (Lyrics_Vietsub)(M4A_128K).m4a"
-  },
-  {
-    "id": 10,
-    "title": "Sickick",
-    "singer": "Infected",
-    "img": "./image/images(6).jpeg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Sickick - Infected (lyrics)(M4A_128K).m4a"
-  },
-  {
-    "id": 11,
-    "title": "Go Down Deh ",
-    "singer": "Spice_ Sean Paul_ Shaggy",
-    "img": "./image/maxresdefault(3).jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Spice_ Sean Paul_ Shaggy - Go Down Deh _ Official Music Video(M4A_128K).m4a"
-  },
-  {
-    "id": 12,
-    "title": "SAFARİ",
-    "singer": "Serena",
-    "img": "./image/hqdefault.jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/SAFARİ - Serena (Lyrics_Vietsub)(M4A_128K).m4a"
-  },
-  {
-    "id": 13,
-    "title": "See You Again",
-    "singer": "Wiz Khalifa",
-    "img": "./image/maxresdefault(4).jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack(M4A_128K).m4a"
-  },
-  {
-    "id": 14,
-    "title": "Gangsta_s Paradise",
-    "singer": "Coolio",
-    "img": "./image/maxresdefault(5).jpg",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
-    "link": "./music/Coolio - Gangsta_s Paradise (Official Music Video) [HD] ft. L.V(M4A_128K).m4a"
-  }
-]
+{
+  "music":[
+    {
+      "id": 1,
+      "title": "In Da Club",
+      "artist": "fifty Cent",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/50 Cent - In Da Club (Official Music Video)(M4A_128K).m4a",
+      "language": "english",
+      "description": "In Da Club ( 50 Cent ) "
+    },
+    {
+      "id": 2,
+      "title": "عم سلامة",
+      "artist": "حكيم",
+      "category": "normal",
+      "duration": "",
+      "image": "",
+      "link": "./music/Aam Salama - Hakim [Official Video] _ [عم سلامة - حكيم [الفيديو الرسمي(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( حكيم ) يا عم سلامة"
+    },
+    {
+      "id": 3,
+      "title": "اللي مصبرني",
+      "artist": "أحمد فهمي",
+      "category": "romantic",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ahmed Fahmy - Elly Msabbarny _ أحمد فهمي - اللي مصبرني(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " ( أحمد فهمي ) اللي مصبرني عليك"
+    },
+    {
+      "id": 4,
+      "title": "قولي",
+      "artist": "أحمد كامل",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ahmed Kamel - 2ooly (Official Lyrics Video) _ أحمد كامل - قولي - الكليب الرسمي(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( أحمد كامل ) قولي غاب مش فكرة شكله"
+    },
+    {
+      "id": 5,
+      "title": "علي عيني",
+      "artist": "أحمد كامل",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ahmed Kamel - 3ala 3eeni _ Music Video - 2021 _ احمد كامل - علي عيني(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( أحمد كامل ) علي عيني اوشفكي جاية قدامي وبص بعيد "
+    },
+    {
+      "id": 6,
+      "title": "اختياراتي",
+      "artist": "احمد سعد",
+      "category": "funny",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ahmed Saad - Ekhtayaraty _ Official Music Video - 2023 _ احمد سعد - اختياراتي(MP3_160K)_1.mp3",
+      "language": "arabic",
+      "description": " ( احمد سعد ) اختياراتي"
+    },
+    {
+      "id": 7,
+      "title": "علي حسب وداد قلبى",
+      "artist": "عبد الحليم حافظ",
+      "category": "old",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ala Hesb Wedad  - Abdel Halim Hafez على حسب وداد قلبى - عبد الحليم حافظ(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( عبد الحليم حافظ ) علي حسب وداد قلبى قلبي يا بويا راح اقول للزين سلامات"
+    },
+    {
+      "id": 8,
+      "title": "بينا نعيش",
+      "artist": "عامر منيب",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Amir Muneeb ... Beena Naeesh _ عامر منيب ... بينا نعيش(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " ( عامر منيب ) بينا نعيش دا العمر ليلة متقوليش نستني ليلة دي الايام ديما جميلة وعمري يا غالي لقيته معاك"
+    },
+    {
+      "id": 9,
+      "title": "هدد",
+      "artist": "عمرو دياب",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Amr_Diab_-_Hadded_(Audio_عمرو_دياب_-_هدد_(كلمات(MP3_160K)_1.mp3",
+      "language": "arabic",
+      "description": " ( عمرو دياب ) هدد"
+    },
+    {
+      "id": 10,
+      "title": "ريحة الحبايب",
+      "artist": "عمرو دياب",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Amr_Diab___Rihet_El_Habayib___عمرو_دياب___ريحة_الحبايب(MP3_160K)_1.mp3",
+      "language": "arabic",
+      "description": "( عمرو دياب ) اي حاجة تيجي من ريحة الحبايب"
+    },
+    {
+      "id": 11,
+      "title": "اكثر",
+      "artist": "اصالة",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Asalah Aktar اصالة - اكثر(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " ( اصالة) اكثر من اللي انا بحلم بيه"
+    },
+    {
+      "id": 12,
+      "title": "الورد البلدي",
+      "artist": "اصالة",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Assala - El Ward El Balady  _ آصالة - الورد البلدي  [LYRICS](MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( اصالة) لما يهل الورد البلدي كل الورد يخاف بالعربي اللي مشفش العربي يبقي لا عاش و لا شاف "
+    },
+    {
+      "id": 13,
+      "title": "بعد الليالى",
+      "artist": "عمرو دياب",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Baed El Layale - Amr Diab بعد الليالى - عمرو دياب(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( عمرو دياب) اه بعد الليالي  "
+    },
+    {
+      "id": 14,
+      "title": "باشا باشا",
+      "artist": "عماد باشا",
+      "category": "festival",
+      "duration": "",
+      "image": "",
+      "link": "./music/basha basha  - Emad Basha l exclusive l  باشا باشا - عماد باشا 2021(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "باشا باشا انا الباشا ( عماد باشا )"
+    },
+    {
+      "id": 15,
+      "title": "lovely",
+      "artist": "Billie Eilish _ Khalid",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Billie Eilish_ Khalid - lovely(M4A_128K).m4a",
+      "language": "english",
+      "description": "lovely ( Billie Eilish _ Khalid )"
+    },
+    {
+      "id": 16,
+      "title": "Symphony",
+      "artist": "Clean Bandit",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Clean Bandit - Symphony (Lyrics_Vietsub) feat. Zara Larsson(MP3_160K).mp3",
+      "language": "english",
+      "description": "Symphony ( Clean Bandit )"
+    },
+    {
+      "id": 17,
+      "title": "Gangsta_s Paradise",
+      "artist": "Coolio",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Coolio - Gangsta_s Paradise (Official Music Video) [HD] ft. L.V(M4A_128K).m4a",
+      "language": "english",
+      "description": "Gangsta_s Paradise  ( Coolio )"
+    },
+    {
+      "id": 18,
+      "title": "Shape Of You",
+      "artist": "Ed Sheeran",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Ed Sheeran - Shape Of You (Lyrics)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Shape Of You ( Ed Sheeran )"
+    },
+    {
+      "id": 19,
+      "title": "الدنيا حلوة",
+      "artist": "نانسي عجرم",
+      "category": "funny",
+      "duration": "",
+      "image": "",
+      "link": "./music/El Donia Helwa _ Nancy Ajram _ Indonesian Translation _ الدنيا حلوة _ نانسي عجرم(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( نانسي عجرم ) الدنيا حلوة "
+    },
+    {
+      "id": 20,
+      "title": "Venom",
+      "artist": "Eminem",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Eminem - Venom(M4A_128K).m4a",
+      "language": "english",
+      "description": "Venom ( Eminem )"
+    },
+    {
+      "id": 21,
+      "title": "Low",
+      "artist": "Flo Rida",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Flo Rida - Low (feat. T-Pain) [from Step Up 2 The Streets O.S.T. _ Mail On Sunday] (Official Video)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Low ( Flo Rida ) "
+    },
+    {
+      "id": 22,
+      "title": "مهرجان ١٩٩١",
+      "artist": "اوكا",
+      "category": "festival",
+      "duration": "",
+      "image": "",
+      "link": "./music/G.Oka-1991 ( atdl3 )  _ official music video _ ( جنرال اوكا مهرجان ١٩٩١( اتدلع(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " الف تسعمية احنا الجيل اللي اتدلع  ١٩٩١ ( مهرجان ١٩٩١ )"
+    },
+    {
+      "id": 23,
+      "title": "جانا الهوا",
+      "artist": "عبد الحليم حافظ",
+      "category": "old",
+      "duration": "",
+      "image": "",
+      "link": "./music/Gana El Hawa - Abdel Halim Hafez جانا الهوا - عبد الحليم حافظ(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "جانا الهوا جانا و رمانا الهوا رامانا  ( عبد الحليم حافظ )"
+    },
+    {
+      "id": 24,
+      "title": "جرالنا إيه",
+      "artist": "حمادة هلال",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Hamada Helal - Garalna Eh - (Official Lyrics Video) _ من فيلم حسن وبقلظ حمادة هلال - جرالنا إيه(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( حمادة هلال  ) جرالنا إيه ازاي خسرنا انا وانت بعض كنت اخويا وكنت صاحبي و اغلي حد "
+    },
+    {
+      "id": 25,
+      "title": "مش هقول",
+      "artist": "حمادة هلال",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Hamada Helal - Mesh Ha_oul _ حمادة هلال - مش هقول(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( حمادة هلال ) و مش هقول عاللي حصل بيني  بينه "
+    },
+    {
+      "id": 26,
+      "title": "يا ستار",
+      "artist": "حماقي",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Hamaki - Ya Sattar (Official Lyrics Video) _ حماقي - يا ستّار - كلمات(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "يا ستار ( حماقي ) "
+    },
+    {
+      "id": 27,
+      "title": "انا هونت عليك",
+      "artist": "حوده بندق",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Houda Bondok - Ana Hont Alek  [Official Lyric Video]_ حوده بندق - انا هونت عليك(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( حوده بندق ) انا هونت عليك"
+    },
+    {
+      "id": 28,
+      "title": "كان ليا حبايب",
+      "artist": "حوده بندق",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Houda Bondok – Kan Lya Habayeb (Official Video clip) _ حوده بندق - كان ليا حبايب(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( حوده بندق ) كان ليا حبايب "
+    },
+    {
+      "id": 29,
+      "title": "كلمة رجوعنا",
+      "artist": "حوده بندق",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Houda Bondok – Kelmet Rogo3na ( Official Video clip ) _ حوده بندق - كليب _ كلمة رجوعنا(MP3_160K) (1).mp3",
+      "language": "arabic",
+      "description": "كلمة رجوعنا يا ريت ما ينطقهاش لسانك ( حوده بندق )"
+    },
+    {
+      "id": 30,
+      "title": "سته الصبح",
+      "artist": "حسين الجسمي",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Husain Al Jassmi ... Seta El Sobah _ حسين الجسمي ... سته الصبح(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( حسين الجسمي ) بتعدي في حتا انا قلبي بيتكسر ميت حتة "
+    },
+    {
+      "id": 31,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Imagine Dragons - Believer (Lyrics)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Believer ( Imagine Dragons )"
+    },
+    {
+      "id": 32,
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Imagine Dragons - Thunder(M4A_128K).m4a",
+      "language": "english",
+      "description": "Thunder ( Imagine Dragons )"
+    },
+    {
+      "id": 33,
+      "title": "البادي أظلم",
+      "artist": "جنات",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Jannat ... Al Badi Azlam - Video Clip _ جنات ... البادي أظلم - فيديو كليب(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "البادي أظلم ( جنات )"
+    },
+    {
+      "id": 34,
+      "title": "انا لا بنام",
+      "artist": "خالد عصام",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Khaled Essam - Ana La Banam _ خالد عصام -  انا لا بنام  (Official lyrics video)(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " دا انا لا بنام و لا في كلام اوصف فيه حالي ( خالد عصام )"
+    },
+    {
+      "id": 35,
+      "title": "وايه يعني",
+      "artist": "خالد عصام",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Khaled Essam - W Eh Yaany _ خالد عصام - وايه يعني (Official lyrics video)(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " وايه يعني اما اعيش بعدك ( خالد عصام )"
+    },
+    {
+      "id": 36,
+      "title": "زمن مادى",
+      "artist": "طارق الشيخ",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/اغنية زمن مادى غناء طارق الشيخ_ من مسلسل البيت الكبير 2018  قريبا(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " ( طارق الشيخ )  الماديات يما فرقت اخوات _ واحنا في زمن مادي    "
+    },
+    {
+      "id": 37,
+      "title": "كل الناس",
+      "artist": "الصواريخ وحسن ابوالروس",
+      "category": "funny",
+      "duration": "",
+      "image": "",
+      "link": "./music/Kol El Nas - Hassan Abouelrouss _ El Swareekh (Official Video)_ كل الناس - الصواريخ وحسن ابوالروس(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( الصواريخ و حسن ابوالروس )  مفيش منك مفيش خالص كل الناس واحد الا انت فالتة كل مولتو اللي انت مجنم كل االناس بوجي الا انت طمطم "
+    },
+    {
+      "id": 38,
+      "title": "حدوتة الماني",
+      "artist": "مروان موسى",
+      "category": "rap",
+      "duration": "",
+      "image": "",
+      "link": "./music/MARWAN MOUSSA - 7ADOTA ALMANY (OFFICIAL AUDIO) مروان موسى - حدوتة الماني(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( مروان موسى ) حدوتة الماني انا نجم الراب عالشط "
+    },
+    {
+      "id": 39,
+      "title": "بطل عالم",
+      "artist": "مروان موسى",
+      "category": "rap",
+      "duration": "",
+      "image": "",
+      "link": "./music/MARWAN MOUSSA - BATAL 3ALAM (OFFICIAL MUSIC VIDEO) مروان موسى - بطل عالم --(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( مروان موسى ) مفيش شبهي في بلدك قارن ورقي بورقك بطل عالم"
+    },
+    {
+      "id": 40,
+      "title": "كنتي قوليلي",
+      "artist": "محمد سعيد",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Mohammed Saeed - Konty 2olely _ محمد سعيد - كنتي قوليلي(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "(  محمد سعيد  ) كنتي قوليلي"
+    },
+    {
+      "id": 41,
+      "title": "قلب فى الدفاتر",
+      "artist": "مسلم",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/MUSliM - Aleb Fel Dafater _ Official Music Video - 2022 _ مسلم - قلب فى الدفاتر(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "( مسلم ) قلب فى الدفاتر"
+    },
+    {
+      "id": 42,
+      "title": "اتنسيت",
+      "artist": "مسلم",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/MUSliM - Etnaset _ Music Video - 2021 _ مسلم - اتنسيت(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "( مسلم ) اتنسيت"
+    },
+    {
+      "id": 43,
+      "title": "مش ندمان",
+      "artist": "مسلم",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/MUSliM - Mesh Nadman _ Music Video - 2021 _ مسلم - مش ندمان(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "  ( مسلم ) برواز قديم و متلصم و العمر بيجري و يخصم  _ علي العشرا و عالايام _ و يومين بالكتير و انساك انا سيبك و مش ندمان "
+    },
+    {
+      "id": 44,
+      "title": "مخصماك",
+      "artist": "نوال",
+      "category": "funny",
+      "duration": "",
+      "image": "",
+      "link": "./music/Nawal - Mekhasmak ( Official Music Video - 2022 ) نوال - مخصماك_ انت لو كنت بتهتم(M4A_128K).m4a",
+      "language": "arabic",
+      "description": " ( نوال ) مخصماك"
+    },
+    {
+      "id": 45,
+      "title": "قلت مش هتسبني",
+      "artist": "أميمة طالب",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Oumaima Taleb ... Olt Mosh Hatsebni - 2022 _ أميمة طالب ... قلت مش هتسبني(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "(  أميمة طالب  ) قلت مش هتسبني ثانية "
+    },
+    {
+      "id": 46,
+      "title": "Happy",
+      "artist": "Pharrell Williams",
+      "category": "funny",
+      "duration": "",
+      "image": "",
+      "link": "./music/Pharrell Williams - Happy (Video)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Happy ( Pharrell Williams ) "
+    },
+    {
+      "id": 47,
+      "title": "ابيع الدنيا",
+      "artist": "بوسي",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Pousi - Abia El Donia  _  بوســي - ابيع الدنيا(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "(  بوسي ) دانا ابيع الدنيا الدنيا عشانك انت يا روحي في ثانية "
+    },
+    {
+      "id": 48,
+      "title": "لفينا الدنيا",
+      "artist": "رضا البحراوي و مسلم",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Reda El Bahrawy _ Muslim - Lafena El Donya _ رضا البحراوي و مسلم - لفينا الدنيا (من فيلم البعبع)(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( رضا البحراوي و مسلم )  لحوين و مفيش مننا فاضلين  _ لفينا الدنيا "
+    },
+    {
+      "id": 49,
+      "title": "Rockabye",
+      "artist": "Clean Bandit ft. Sean Paul _ Anne-Marie",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Rockabye - Clean Bandit ft. Sean Paul _ Anne-Marie (Lyrics_Vietsub)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Rockabye ( Clean Bandit ft. Sean Paul _ Anne-Marie )"
+    },
+    {
+      "id": 50,
+      "title": "Can_t Be Touched",
+      "artist": "Roy Jones",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Roy Jones - Can_t Be Touched (HQ_Dirty)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Can_t Be Touched ( Roy Jones ) "
+    },
+    {
+      "id": 51,
+      "title": "SAFARİ",
+      "artist": "Serena",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/SAFARİ - Serena (Lyrics_Vietsub)(M4A_128K).m4a",
+      "language": "english",
+      "description": "SAFARİ ( Serena )"
+    },
+    {
+      "id": 52,
+      "title": "عروستي",
+      "artist": "شارموفرز",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "/music/Sharmoofers - Arosty _ شارموفرز - عروستي _ فيلم عروستي(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "ايه دا هو انتي جيتي مكنتش مستني بس انتي بجد بهرتيني _ عروستي ( شارموفرز )"
+    },
+    {
+      "id": 53,
+      "title": "Señorita",
+      "artist": "Shawn Mendes_ Camila Cabello",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Shawn Mendes_ Camila Cabello - Señorita مترجمة(M4A_128K).m4a",
+      "language": "english",
+      "description": "Señorita ( Shawn Mendes _ Camila Cabello )"
+    },
+    {
+      "id": 54,
+      "title": "اناإمتى نسيتك",
+      "artist": "شيماء هلالي",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Shayma Helali   Emta Nseitak    شيماء هلالي    إمتى نسيتك(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( شيماء هلالي ) اناإمتى نسيتك ولا عشان انا مش بتكلم "
+    },
+    {
+      "id": 55,
+      "title": "Infected",
+      "artist": "Sickick",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Sickick - Infected (lyrics)(M4A_128K).m4a",
+      "language": "english",
+      "description": "Infected ( Sickick)"
+    },
+    {
+      "id": 56,
+      "title": "دا حبيبي",
+      "artist": "سوما",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Soma - Da Habiby (Music Video) _ (سوما - ده حبيبي (فيديو كليب(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( سوما ) دا حبيبي "
+    },
+    {
+      "id": 57,
+      "title": "Go Down Deh",
+      "artist": "Spice_ Sean Paul_ Shaggy",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Spice_ Sean Paul_ Shaggy - Go Down Deh _ Official Music Video(M4A_128K).m4a",
+      "language": "english",
+      "description": "Go Down Deh ( Spice_ Sean Paul _ Shaggy)"
+    },
+    {
+      "id": 58,
+      "title": "Till I Collapse",
+      "artist": "Eminem",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Till I Collapse(M4A_128K).m4a",
+      "language": "english",
+      "description": "Till I Collapse ( Eminem ) "
+    },
+    {
+      "id": 59,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "category": "normal",
+      "duration": "",
+      "image": "",
+      "link": "./music/Tones and I - Dance Monkey (Lyrics)(MP3_160K).mp3",
+      "language": "english",
+      "description": "Dance Monkey ( Tones and I)"
+    },
+    {
+      "id": 60,
+      "title": "بتوحشيني",
+      "artist": "وائل الجسار",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/Wael Jassar - Betewhashini - وائل الجسار- بتوحشيني - كلمات(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( وائل الجسار ) بتوحشيني "
+    },
+    {
+      "id": 61,
+      "title": "See You Again ft. Charlie Puth",
+      "artist": "Wiz Khalifa",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack(M4A_128K).m4a",
+      "language": "english",
+      "description": "See You Again ft. Charlie Puth ( Wiz Khalifa )"
+    },
+    {
+      "id": 62,
+      "title": "أكثر_عليكي عيون",
+      "artist": "أصالة و أحمد سعد",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/أصالة _ أحمد سعد - أكثر_عليكي عيون_RemixReserve  _RemixOfficial  _arabic-cmusic(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( أصالة و أحمد سعد )  أكثر منة الي انا بحلم بيه _ عليكي عيون"
+    },
+    {
+      "id": 63,
+      "title": "أنا قادر",
+      "artist": "(أحمد سعد و هشام الجخ",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/أغنية أنا قادر - من مسلسل جعفر العمدة بطولة محمد رمضان - غناء أحمد سعد وأداء صوتي هشام الجخ(MP3_160K) (1).mp3",
+      "language": "arabic",
+      "description": "( أحمد سعد و هشام الجخ ) سوق الندالة وسع و الكل بقي بيلك واما النصاص بتقوم تلكي الاصيل بيعك _ أنا قادر واديني لسة بتفرج دا سيرك اسود و بتهرج و دنيا شكلها اعرج  و صابر "
+    },
+    {
+      "id": 64,
+      "title": "اسأل عني",
+      "artist": "نور النبوي و كزبره",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/أغنية اسأل عني - نور النبوي و كزبره _ من فيلم الحريفة(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "( نور النبوي و كزبره ) وابقي اسأل عني  "
+    },
+    {
+      "id": 65,
+      "title": "القلوب السوداء",
+      "artist": "أحمد شيبة",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/أغنية القلوب السوداء - أحمد شيبة _ علامة إستفهام رمضان 2019(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "( أحمد شيبة ) القلوب السوداء _ هاعيش مع نفسي و اتأقلم و مش هتعب _ هعود روحي علي روحي ومش هغلب "
+    },
+    {
+      "id": 66,
+      "title": "بابا",
+      "artist": "حوده بندق و محمد شاهين",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/أغنية بابا المجال من مسلسل بابا المجال بطولة مصطفي شعبان - غناء حوده بندق و محمد شاهين(MP3_160K).mp3",
+      "language": "",
+      "description": "( حوده بندق و محمد شاهين ) انا البابا يا غلابا "
+    },
+    {
+      "id": 67,
+      "title": "خطوة اجباري",
+      "artist": "عطار و نور النبوي",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/أغنية خطوة اجباري  (khatwa egbary) غناء عطار و نور النبوي _ Ramy Elmasry(MP3_320K).mp3",
+      "language": "arabic",
+      "description": " عمل نفسي مش داري _ واخد خطوة اجباري ( عطار و نور النبوي )"
+    },
+    {
+      "id": 68,
+      "title": "ايوه عليكى دنيا",
+      "artist": "احمد الصغير",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/احمد الصغير   ايوه عليكى دنيا من فيلم جمهورية امبابة(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "  ايوه عليكى دنيا ( احمد الصغير )"
+    },
+    {
+      "id": 69,
+      "title": "مبقتش مستغرب",
+      "artist": "احمد عامر",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/احمد عامر - مبقتش مستغرب ( قاعد وبتفرج ) _ إنتاج شركه بروتكت ميديا محمد العشري - 2024(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "( احمد عامر )   قاعد و بتفرج و اراقب كل اللي حوليا   _  مبقتش مستغرب  "
+    },
+    {
+      "id": 70,
+      "title": "حلاوة روح",
+      "artist": "حكيم",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/اغنية حكيم حلاوة روح - كاملة - من فيلم حلاوة روح - هيفاء وهبي(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "( حكيم ) اغنية حلاوة روح "
+    }
+  ]  
+}
