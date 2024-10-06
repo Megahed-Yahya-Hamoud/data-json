@@ -1,5 +1,5 @@
 {
-  "music":[
+  "music": [
     {
       "id": 1,
       "title": "In Da Club",
@@ -769,6 +769,314 @@
       "link": "./music/اغنية حكيم حلاوة روح - كاملة - من فيلم حلاوة روح - هيفاء وهبي(MP3_320K).mp3",
       "language": "arabic",
       "description": "( حكيم ) اغنية حلاوة روح "
+    },
+    {
+      "id": 71,
+      "title": "القاضية",
+      "artist": "اسلام شيندي",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/Eslam Shendy - El Qadya [ From Welad Rizk 3 ] _ إسلام شيندي - القاضية [ من فيلم اولاد رزق 3](M4A_128K).m4a",
+      "language": "arabic",
+      "description": "القاضية من فيلم اولاد رزق 3"
+    },
+    {
+      "id": 72,
+      "title": "سيب علامة",
+      "artist": "وائل عامر",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/وائل عامر - سيب علامة(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "سيب علامة للي بعدك من فيلم بيكيا"
+    },
+    {
+      "id": 73,
+      "title": "ماتبكيش ياعين",
+      "artist": "نور الدين الطيار",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/نور الدين الطيار - ماتبكيش ياعين - ملكوش مكان جوانا - ( الڤيديو الرسمي ) Xoureldin (Official Video)(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "ماتبكيش ياعين - ملكوش مكان جوانا"
+    },
+    {
+      "id": 74,
+      "title": "نزلة سمان",
+      "artist": "كريم أسامة",
+      "category": "rap",
+      "duration": "",
+      "image": "",
+      "link": "./music/نزلة سمان _ كريم أسامة ( اسف ع الازعاج لساني مفيش حاجه هنا حكماه) ⚡--(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "اسف ع الازعاج لساني مفيش حاجه هنا حكماه جاي بعد ما الميزان "
+    },
+    {
+      "id": 75,
+      "title": "انت تقول وتمشى",
+      "artist": "نجاة الصغيرة",
+      "category": "old",
+      "duration": "",
+      "image": "",
+      "link": "./music/نجاة الصغيرة - انت تقول وتمشى(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "انت تقول وتمشى انا اسهر ما نمشي"
+    },
+    {
+      "id": 76,
+      "title": "مليونير",
+      "artist": "المدفعجية",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/مهرجان مليونير- مسلسل ب 100 وش - غناء المدفعجية _ Mahragan Millionaire - El Madfaagya(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "مهرجان مليونير- مسلسل ب 100 وش - غناء المدفعجية"
+    },
+    {
+      "id": 77,
+      "title": "قلبك بحر مالح",
+      "artist": "الصواريخ دقدق و باسم فانكى",
+      "category": "festival",
+      "duration": "",
+      "image": "",
+      "link": "./music/مهرجان قلبك بحر مالح -- _ مشينا صح مش عاجب _ الصواريخ دقدق و باسم فانكى _ Albk Bahr Maleh(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "مهرجان قلبك بحر مالح -- _ مشينا صح مش عاجب _ الصواريخ دقدق و باسم فانكى"
+    },
+    {
+      "id": 78,
+      "title": "يا مرسال الهوى",
+      "artist": "نجاة الصغيرة",
+      "category": "old",
+      "duration": "",
+      "image": "",
+      "link": "./music/مرسال الهوى - نجاة الصغيرة - صوت عالي الجودة(MP3_160K).mp3",
+      "language": "arabic",
+      "description": " يا مرسال الهوى نجاة الصغيرة"
+    },
+    {
+      "id": 79,
+      "title": "عم المجال كله",
+      "artist": "محمود الليثي",
+      "category": "festival",
+      "duration": "",
+      "image": "",
+      "link": "./music/محمود الليثي - عم المجال كله ( يبني أنا في الشغله دي عمها ) [Official Music Lyrics] ابو السيد [2024](M4A_128K).m4a",
+      "language": "arabic",
+      "description": "عم المجال كله يبني أنا في الشغله دي عمها "
+    },
+    {
+      "id": 80,
+      "title": "اتخنقت",
+      "artist": "محمد محي",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/محمد محي- اتخنقت-(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "اتخنقت"
+    },
+    {
+      "id": 81,
+      "title": "قالوا عليكي",
+      "artist": "محمد سعيد",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/محمد سعيد - قالوا عليكي __ Mohammed Saeed [Official Music](MP3_320K).mp3",
+      "language": "arabic",
+      "description": "و قالوا عليكي"
+    },
+    {
+      "id": 82,
+      "title": "واحد من الناس",
+      "artist": "لؤي",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/لؤي - واحد من الناس(MP3_320K).mp3",
+      "language": "",
+      "description": "كان واحد من الناس"
+    },
+    {
+      "id": 83,
+      "title": "الفلوس",
+      "artist": "احمد عبده - اسلام الملاح",
+      "category": "festival",
+      "duration": "",
+      "image": "",
+      "link": "./music/كليب مهرجان _ الفلوس _ احنا جامدين اوي اوي اوي _ احمد عبده - اسلام الملاح - انتاج ابو السيد تيم _94(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "كليب مهرجان _ الفلوس _ احنا جامدين اوي اوي اوي"
+    },
+    {
+      "id": 84,
+      "title": "طريق الاندال",
+      "artist": "حمادة الليثى و عمرو سلامة ",
+      "category": "normal",
+      "duration": "",
+      "image": "",
+      "link": "./music/كليب طريق الاندال ( الظروف خلت الصحاب قلت ) حمادة الليثى و عمرو سلامة - انتاج سكر مصر 2023(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "كليب طريق الاندال الظروف خلت الصحاب قلت"
+    },
+    {
+      "id": 85,
+      "title": "يا سبايسي",
+      "artist": "سيف مجدي و عمر الكروان",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/كليب _يا سبايسي_ ( انا سلسلتك حاضنة رقابتي ) سيف مجدي و عمر الكروان _ البوم سلطان الشن 2021(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "كليب يا سبايسي انا سلسلتك حاضنة رقابتي"
+    },
+    {
+      "id": 86,
+      "title": "بأمارة مين",
+      "artist": "فريد",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/فريد - بأمارة مين (لو جاي في رجوع إنساني) - Farid - be_amart meen(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "بأمارة مين لو جاي في رجوع إنساني"
+    },
+    {
+      "id": 87,
+      "title": "ضيعنا",
+      "artist": "عمر كمال وعبد الباسط حمودة واوكسانا",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/عمر كمال وعبد الباسط حمودة واوكسانا _ ضيعنا _ Omar Kamal _ Abdelbaset Hamouda _ Dai3na(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "ضيعنا"
+    },
+    {
+      "id": 88,
+      "title": "وبينا معاد",
+      "artist": "عمر دياب",
+      "category": "romantic",
+      "duration": "",
+      "image": "",
+      "link": "./music/عمر دياب وبينا معاد ( Webna Maad Amr Diab ( HQ Music Sound(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "وبينا معاد"
+    },
+    {
+      "id": 89,
+      "title": "زي العسل",
+      "artist": "صباح",
+      "category": "love",
+      "duration": "",
+      "image": "",
+      "link": "./music/صباح- زي العسل(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "زي العسل"
+    },
+    {
+      "id": 90,
+      "title": "اللي يمشي عادي",
+      "artist": "داليا",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/داليا - اللي يمشي عادي (حصرياً) _ 2021(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "اللي يمشي عادي"
+    },
+    {
+      "id": 91,
+      "title": "اعذريني",
+      "artist": "خالد عصام",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/خالد عصام - اعذريني _ Khaled Essam - Ouzoreny(MP3_320K).mp3",
+      "language": "",
+      "description": "اعذريني"
+    },
+    {
+      "id": 92,
+      "title": "أصعب فراق",
+      "artist": "جورج وسوف",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/جورج وسوف أصعب فراق  Geroge Wassouf(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "أصعب فراق أصعب عذاب الشوق اللي غايب"
+    },
+    {
+      "id": 93,
+      "title": "بعملها كده",
+      "artist": "عنبه",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/بعملها كده - عنبه ( الحمد لله لوحدي حمله ) 2024 ‏ (Official Music Video) 3enba - b3melha Kda(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "بعملها كده"
+    },
+    {
+      "id": 94,
+      "title": "اه يا حلو",
+      "artist": "ناي البرغوثي",
+      "category": "romantic",
+      "duration": "",
+      "image": "",
+      "link": "./music/اه يا حلو- ناي البرغوثي  Ah Ya Helu- Nai Barghouti(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "اه يا حلو"
+    },
+    {
+      "id": 95,
+      "title": "روقان",
+      "artist": "حوده بندق",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/اغنيه ( روقان ) النسخة الماستر - حوده بندق - من مسلسل رحيل بطوله ياسمين صبري و احمد صلاح حسني حلقة 8(M4A_128K).m4a",
+      "language": "arabic",
+      "description": "اللي معانا كسبان (روقان)"
+    },
+    {
+      "id": 96,
+      "title": "النمر",
+      "artist": "رضا البحراوي",
+      "category": "excited",
+      "duration": "",
+      "image": "",
+      "link": "./music/اغنية_النمر_اول_ما_يظهر_-_غناء_رضا_البحراوي_-_تتر_مسلسل_النمر_2021_(192_kbps.mp3",
+      "language": "arabic",
+      "description": "النمر اول ما بيظهر يخض"
+    },
+    {
+      "id": 97,
+      "title": "عيني ليك ياليل",
+      "artist": "نور الدين الطيار",
+      "category": "sad",
+      "duration": "",
+      "image": "",
+      "link": "./music/نور الدين الطيار - عيني ليك ياليل Xoureldin (Officia Audio)(MP3_320K).mp3",
+      "language": "arabic",
+      "description": "عيني ليك ياليل حالي مش بخير بتمنلوكوا الخير تتمنولي الشر ليه"
+    },
+    {
+      "id": 98,
+      "title": "القريب منك بعيد",
+      "artist": "نجاة الصغيرة",
+      "category": "old",
+      "duration": "",
+      "image": "",
+      "link": "./music/نجاة الصغيرة   القريب منك بعيد   Najat Al Saghira(MP3_160K).mp3",
+      "language": "arabic",
+      "description": "القريب منك بعيد و البعيد عنك قريب كل دا و فلبي اللي حبك لسة بيسميك حبيبي"
     }
-  ]  
+  ]
 }
